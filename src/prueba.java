@@ -5,4 +5,5 @@ public class prueba {
 	int tres;
 	int siete;
 	int ocho;
+	int nueve;
 }
